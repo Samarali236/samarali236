@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Developer
 ---------
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+code&pause=1000&color=F7479B&background=FFFFFF00&width=435&lines=DREAMER+%F0%9F%8C%B8" alt="Typing SVG" /></a>
 
 Fast-learning and motivated Computer and Telecommunication Engineering graduate.
 
