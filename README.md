@@ -26,12 +26,8 @@ Fueled by coffee and curiosity. ☕
 <p align="left"> <a href="https://www.github.com/samarali236" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/samaraalisquare" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.threads.net/@samaraali_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" alt="Threads" title="Threads" /> </picture> </a></p>
 
 
-<h2>My GitHub Stats</h2>
+<b>My GitHub Stats</b>
 
-<a href="https://github.com/samarali236">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarali236&show_icons=true&count_private=true&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true" alt="samarali236's GitHub stats" />
-</a>
+<a href="http://www.github.com/samarali236"><img src="https://github-readme-stats.vercel.app/api?username=samarali236&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="samarali236's GitHub stats" /></a>
 
-<a href="https://github.com/samarali236">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarali236&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
+<a href="https://github.com/samarali236" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarali236&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
